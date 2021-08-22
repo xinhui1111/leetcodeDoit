@@ -76,7 +76,7 @@ int findContentChildren1(vector<int>& g, vector<int>& s) {
 	return count;
 }
 
-int main()
+int main_455()
 {
 	/*vector<int>g = { 10,9,8,7 };
 	vector<int>s = { 5,6,7,8};*/
