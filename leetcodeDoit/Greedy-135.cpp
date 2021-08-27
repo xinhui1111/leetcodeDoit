@@ -144,7 +144,7 @@ int candy_official(vector<int>& ratings) {
 	return ret;
 }
 
-int main() {
+int main_135() {
 	vector<int>rating = { 1,0,2 };
 	vector<int>rating2 = { 1,2,2 };
 	vector<int>rating_error = { 1,3,2,2,1 };

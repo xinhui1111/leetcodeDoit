@@ -21,5 +21,8 @@
     <ClCompile Include="Greedy-135.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Greedy-435.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
