@@ -21,5 +21,76 @@
     <ClCompile Include="Greedy-135.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="part-time-test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="search_35.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strStr_28.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="niuke.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 10- II. 青蛙跳台阶问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="search_rotation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="csdn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="583.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sgd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gaosi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wei.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotate_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49字母异位词分组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lamda_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37解数独.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n皇后.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="template_compile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="strStr_28.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

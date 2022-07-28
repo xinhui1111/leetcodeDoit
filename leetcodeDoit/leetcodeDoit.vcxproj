@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -116,6 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -139,8 +140,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="122.cpp" />
+    <ClCompile Include="18.cpp" />
+    <ClCompile Include="32.cpp" />
+    <ClCompile Include="37解数独.cpp" />
+    <ClCompile Include="49字母异位词分组.cpp" />
+    <ClCompile Include="583.cpp" />
+    <ClCompile Include="csdn.cpp" />
+    <ClCompile Include="gaosi.cpp" />
     <ClCompile Include="Greedy-135.cpp" />
     <ClCompile Include="Greedy-455.cpp" />
+    <ClCompile Include="lamda_test.cpp" />
+    <ClCompile Include="n皇后.cpp" />
+    <ClCompile Include="niuke.cpp" />
+    <ClCompile Include="part-time-test.cpp" />
+    <ClCompile Include="Rotate_image.cpp" />
+    <ClCompile Include="search_35.cpp" />
+    <ClCompile Include="search_rotation.cpp" />
+    <ClCompile Include="sgd.cpp" />
+    <ClCompile Include="strStr_28.cpp" />
+    <ClCompile Include="template.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="wei.cpp" />
+    <ClCompile Include="剑指 Offer 10- II. 青蛙跳台阶问题.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="strStr_28.h" />
+    <ClInclude Include="template_compile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
