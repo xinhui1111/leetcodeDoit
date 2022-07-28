@@ -149,6 +149,7 @@
     <ClCompile Include="csdn.cpp" />
     <ClCompile Include="gaosi.cpp" />
     <ClCompile Include="Greedy-135.cpp" />
+    <ClCompile Include="Greedy-435.cpp" />
     <ClCompile Include="Greedy-455.cpp" />
     <ClCompile Include="lamda_test.cpp" />
     <ClCompile Include="n皇后.cpp" />
