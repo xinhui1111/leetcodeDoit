@@ -140,8 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="104二叉树的最大深度.cpp" />
     <ClCompile Include="122.cpp" />
+    <ClCompile Include="15三数之和.cpp" />
     <ClCompile Include="18.cpp" />
+    <ClCompile Include="28strStr.cpp" />
     <ClCompile Include="32.cpp" />
     <ClCompile Include="37解数独.cpp" />
     <ClCompile Include="49字母异位词分组.cpp" />
@@ -159,7 +162,6 @@
     <ClCompile Include="search_35.cpp" />
     <ClCompile Include="search_rotation.cpp" />
     <ClCompile Include="sgd.cpp" />
-    <ClCompile Include="strStr_28.cpp" />
     <ClCompile Include="template.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="wei.cpp" />

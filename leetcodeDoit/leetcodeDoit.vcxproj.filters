@@ -27,9 +27,6 @@
     <ClCompile Include="search_35.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="strStr_28.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="niuke.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -82,6 +79,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="n皇后.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy-435.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104二叉树的最大深度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15三数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28strStr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

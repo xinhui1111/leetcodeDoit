@@ -104,6 +104,7 @@ int eraseOverlapIntervals_self3(vector<vector<int>>& intervals) {
 			right = intervals[i][1];
 		}
 	}
+	return 0;
 }
 
 //自己经过整理之后,结合官方的解答
@@ -133,7 +134,7 @@ int eraseOverlapIntervals_self4(vector<vector<int>>& intervals) {
 }
 
 
-int main() {
+int main_435() {
 	vector<vector<int>>intervals = { {1,2} ,{2,3},{3,4},{1,3} ,{3,5} ,{7,8} };
 	cout << eraseOverlapIntervals2(intervals) << endl;
 	cout<< eraseOverlapIntervals_self4(intervals)<<endl;
