@@ -144,19 +144,23 @@
     <ClCompile Include="122.cpp" />
     <ClCompile Include="15三数之和.cpp" />
     <ClCompile Include="18.cpp" />
+    <ClCompile Include="27移除元素.cpp" />
     <ClCompile Include="28strStr.cpp" />
     <ClCompile Include="32.cpp" />
     <ClCompile Include="37解数独.cpp" />
     <ClCompile Include="49字母异位词分组.cpp" />
     <ClCompile Include="583.cpp" />
+    <ClCompile Include="60add_one.cpp" />
     <ClCompile Include="csdn.cpp" />
     <ClCompile Include="gaosi.cpp" />
     <ClCompile Include="Greedy-135.cpp" />
     <ClCompile Include="Greedy-435.cpp" />
     <ClCompile Include="Greedy-455.cpp" />
+    <ClCompile Include="ifstream.cpp" />
     <ClCompile Include="lamda_test.cpp" />
     <ClCompile Include="n皇后.cpp" />
     <ClCompile Include="niuke.cpp" />
+    <ClCompile Include="outstream.cpp" />
     <ClCompile Include="part-time-test.cpp" />
     <ClCompile Include="Rotate_image.cpp" />
     <ClCompile Include="search_35.cpp" />
@@ -170,6 +174,9 @@
   <ItemGroup>
     <ClInclude Include="strStr_28.h" />
     <ClInclude Include="template_compile.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

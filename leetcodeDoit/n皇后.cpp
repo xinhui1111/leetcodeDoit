@@ -138,7 +138,7 @@ vector<vector<string>> solveNQueens2(int n) {
 }
 
 
-int main() {
+int main_n() {
     int n=4;
     /*cout << "输入n皇后的个数" << endl;
     cin >> n;*/

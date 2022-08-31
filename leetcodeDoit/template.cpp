@@ -4,7 +4,7 @@
 using namespace std;
 
 
-void main()
+void main_template()
 {
     base<int> bobj;
     cout << bobj.add_base(2, 3) << endl;

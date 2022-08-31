@@ -93,6 +93,18 @@
     <ClCompile Include="28strStr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="27移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ifstream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="outstream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60add_one.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="template_compile.h">
@@ -101,5 +113,10 @@
     <ClInclude Include="strStr_28.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt">
+      <Filter>源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>
